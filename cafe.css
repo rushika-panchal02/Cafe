@@ -304,7 +304,7 @@ section{
 
 
 .menu .box-container .box:hover{
-    background: #fff;
+    background: rgba(255,255,255,50%);
 }
 
 .menu .box-container .box:hover > *{
